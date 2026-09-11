@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StanzaApi.X12Parser</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stanza</Authors>
+    <Description>Official zero-dependency, high-speed C# .NET client for Healthcare EDI ANSI X12 Parser (837P / 835 / 271)</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://stanzaapi.com/tools/x12-parser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/StanzaAPI/x12-parser-csharp</RepositoryUrl>
+    <PackageTags>ansi-x12;edi-837p;edi-835;edi-271;hipaa;healthcare-claims;edi-parser;remittance;claims</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
